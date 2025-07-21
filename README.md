@@ -20,5 +20,5 @@ Here's the path we'll be following through the woods:
 - **matplotlib** - for data visualization
 - **numpy** - for data manipulation and analysis
 
-## Acknowkedgements
+## Acknowledgements
 The idea for this notebook came from a lecture delivered by Tao Li, Associate Professor in the Department of Information & Analytics at Santa Clara University's Leavey School of Business. Thanks to the professor for laying the groundwork for this project.
